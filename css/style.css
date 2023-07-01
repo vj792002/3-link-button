@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+a{
+	text-decoration:none;
+	padding:8px 15px;
+}
+.left{
+	background:rgba(231,2,2,1);
+	color:white;
+}
+.middle{
+	background:rgba(251,194,8,1);
+	color:black;
+}
+.right{
+	background:rgba(22,133,0,1);
+	color:white;
+}
+.div{
+	display:flex;
+	margin:10px;
+	border-radius:5px;
+	overflow:hidden;
+	width:195px;
+}
+#container{
+	border:1px solid gray;
+	margin:10px;
+	padding:15px;
+}
